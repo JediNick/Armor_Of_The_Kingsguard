@@ -1,0 +1,6 @@
+﻿use_show_armor = {
+	default  = show_armor_enabled
+	book_armor_enabled = {}
+	show_armor_enabled = {}
+}
+

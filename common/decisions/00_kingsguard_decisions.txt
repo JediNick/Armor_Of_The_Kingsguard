@@ -1,0 +1,112 @@
+﻿replace_kingsguard_armor_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_smith.dds"
+
+	desc = replace_armor_desc
+	selection_tooltip = replace_armor_tooltip
+
+	cooldown = { years = 0}
+	
+	sort_order = 100
+	
+	is_shown = {
+		primary_title = { has_variable = kingsguard }
+		is_ai = no
+		has_game_rule = show_armor_enabled
+	}
+
+    widget = {
+    	gui = "decision_view_widget_commission_artifact"
+		controller = decision_option_list_controller
+		decision_to_second_step_button = "choose_design_button" 
+		
+		# List
+
+		item = {
+			value = steel_choice
+			localization  = {
+				desc = replace_armor_steel_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_01.dds"
+
+		}
+		item = {
+			value = bronze_choice
+			localization  = {
+				desc = replace_armor_bronze_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_02.dds"
+		}
+		item = {
+			value = black_choice
+			localization  = {
+				desc = replace_armor_black_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_03.dds"
+		}
+		item = {
+			value = gold_choice
+			localization  = {
+				desc = replace_armor_gold_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_04.dds"
+		}
+		item = {
+			value = white_choice
+			localization  = {
+				desc = replace_armor_white_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_05.dds"
+		}
+	}
+	
+	ai_will_do = {
+		base = 0
+	}
+
+	effect = {
+		custom_tooltip = changing_armor_tooltip
+		hidden_effect = {
+			if = {
+				limit = { scope:steel_choice = yes }
+				primary_title = {
+					remove_variable = kingsguard_choice
+				}
+			} else_if = {
+				limit = { scope:bronze_choice = yes }
+				primary_title = {
+					set_variable = {
+						name = kingsguard_choice
+						value = 1
+					}
+				}
+			}
+			 else_if = {
+				limit = { scope:black_choice = yes }
+				primary_title = {
+					set_variable = {
+						name = kingsguard_choice
+						value = 2
+					}
+				}
+			}
+			 else_if = {
+				limit = { scope:gold_choice = yes }
+				primary_title = {
+					set_variable = {
+						name = kingsguard_choice
+						value = 3
+					}
+				}
+			}
+			 else_if = {
+				limit = { scope:white_choice = yes }
+				primary_title = {
+					set_variable = {
+						name = kingsguard_choice
+						value = 4
+					}
+				}
+			}
+		}
+	}
+}

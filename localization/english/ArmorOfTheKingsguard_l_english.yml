@@ -1,0 +1,58 @@
+﻿l_english:
+
+PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_western_KG_helmet_01:1 "@aotk_icon! Kingsguard Helmet (Steel)"
+PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_western_KG_helmet_02:1 "@aotk_icon! Kingsguard Helmet (Bronze)"
+PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_western_KG_helmet_03:1 "@aotk_icon! Kingsguard Helmet (Black Steel)"
+PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_western_KG_helmet_04:1 "@aotk_icon! Kingsguard Helmet (Gold)"
+PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_western_KG_helmet_05:1 "@aotk_icon! Kingsguard Helmet (White Enamel)"
+
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armor_01:1 "@aotk_icon! Kingsguard Armor (Steel)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armor_02:1 "@aotk_icon! Kingsguard Armor (Bronze)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armor_03:1 "@aotk_icon! Kingsguard Armor (Black Steel)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armor_04:1 "@aotk_icon! Kingsguard Armor (Gold)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armor_05:1 "@aotk_icon! Kingsguard Armor (White Enamel)"
+
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armorTarg_01:1 "@aotk_icon! Kingsguard Armor (Steel/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armorTarg_02:1 "@aotk_icon! Kingsguard Armor (Bronze/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armorTarg_03:1 "@aotk_icon! Kingsguard Armor (Black Steel/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armorTarg_04:1 "@aotk_icon! Kingsguard Armor (Gold/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_KG_armorTarg_05:1 "@aotk_icon! Kingsguard Armor (White Enamel/Targaryen)"
+
+PORTRAIT_MODIFIER_custom_legwear_male_legwear_KG_01:1 "@aotk_icon! Kingsguard Legwear"
+PORTRAIT_MODIFIER_custom_legwear_male_legwear_KG_03:1 "@aotk_icon! Kingsguard Legwear (White)"
+
+PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_01:0 "@aotk_icon! Kingsguard Cloak (White)"
+PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_02:0 "@aotk_icon! Kingsguard Cloak (Black)"
+PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_03:0 "@aotk_icon! Kingsguard Cloak (Tan)"
+
+replace_armor_desc:1 "Change the design of the Kingsguard Armor"
+
+replace_kingsguard_armor_decision:1 "Replace Kingsguard Armor"
+
+changing_armor_tooltip:1 "You will choose a new design for the Armor that your Kingsguard wear"
+
+choose_design_button:1 "It's time to change the armor..."
+
+replace_armor_steel_desc:1 "Steel armor"
+replace_armor_bronze_desc:1 "Bronze armor"
+replace_armor_gold_desc:1 "Gold armor"
+replace_armor_black_desc:1 "Black Steel armor"
+replace_armor_white_desc:1 "White Enamel armor"
+replace_kingsguard_armor_decision_confirm:1 "I like this look..."
+
+
+replace_armor_tooltip:1 "Choose a new style for The Kingsguard"
+steel_choice_tooltip:1 "Pick steel armor"
+bronze_choice_tooltip:1 "Pick bronze armor"
+black_choice_tooltip:1 "Pick black steel armor"
+gold_choice_tooltip:1 "Pick gold armor"
+white_choice_tooltip:1 "Pick white enamel armor"
+
+
+rule_use_show_armor:0 "Kingsguard Armor"
+setting_show_armor_enabled:0 "Use Show Inspired Armor"
+setting_show_armor_enabled_desc:0 "Use Armor that is modeled after the Kingsguard in the Game of Thrones series. This Setting also allows you to change the armor to alternate variations during the game."
+setting_book_armor_enabled:0 "Use Book Inspired Armor"
+setting_book_armor_enabled_desc:0 "Use Armor that is modeled after the Kingsguard as it is described in the books."
+
+

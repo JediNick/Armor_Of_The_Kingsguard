@@ -1,0 +1,9 @@
+﻿texticon = {
+	icon = aotk_icon
+	iconsize = {
+		texture = "gfx/interface/icons/aotk_icon.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}

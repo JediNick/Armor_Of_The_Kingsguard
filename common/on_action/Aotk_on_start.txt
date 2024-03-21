@@ -1,0 +1,19 @@
+﻿on_game_start = {
+	on_actions = {
+		Aotk_start
+	}
+}
+
+Aotk_start = {
+	effect = {
+       set_global_variable = {
+			name = Aotk_enabled
+			value = yes
+		}
+       if = {
+           limit = {
+               exists = global_var:Aotk_enabled
+			}
+		}
+	}
+}
