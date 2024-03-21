@@ -22,6 +22,7 @@ Any mod which uses the AGOT Submod Core will be automatically compatible with th
 
 ### Load Order
 This mod requires [AGOT Submod Core](https://github.com/JediNick/AGOT_Submod_Core)
+
 Please follow this load order
 
 ![Load order](https://i.imgur.com/wxgYXrZ.png)
