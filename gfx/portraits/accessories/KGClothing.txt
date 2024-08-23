@@ -37,3 +37,9 @@ male_clothes_secular_western_KG_armor_05 = {
 male_clothes_secular_western_KG_armorTarg_05 = {
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_05_entity}	
 }
+male_clothes_secular_western_KG_armor_06 = {
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_06_entity}		
+}
+male_clothes_secular_western_KG_armorTarg_06 = {
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_06_entity}	
+}

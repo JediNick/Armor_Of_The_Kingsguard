@@ -20,7 +20,7 @@ pdxmesh = {
 }
 
 pdxmesh = {
-	name = "KGLeg_02_mesh"
+	name = "KGLeg_Blackfyre_mesh"
 	file = "KGLeg_01.mesh"
 
 	blend_shape = { id = "male_legwear_KG_legwear_01_bs_fat"		type = "KGLeg_01_bs_fat.mesh" }
@@ -32,9 +32,9 @@ pdxmesh = {
 	meshsettings = {
 		name = "KGLegs_Shape"
 		index = 0
-		texture_diffuse = "KGClothing_tan_diffuse.dds"
-		texture_normal = "KGClothing_tan_normal.dds"
-		texture_specular = "KGClothing_tan_properties.dds"
+		texture_diffuse = "KGClothing_blackfyre_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
 		shader = "portrait_attachment"
 		shader_file = "gfx/FX/jomini/portrait.shader"
 	}
@@ -67,7 +67,7 @@ entity = {
 	
 	attribute = { name = "bs_body_fat_1"					blend_shape = "male_legwear_KG_legwear_01_bs_fat" }
 	attribute = { name = "bs_body_muscular_1"				blend_shape = "male_legwear_KG_legwear_01_bs_muscle" }
-    	attribute = { name = "bs_body_old_1"					blend_shape = "male_legwear_KG_legwear_01_bs_old" }
+    attribute = { name = "bs_body_old_1"					blend_shape = "male_legwear_KG_legwear_01_bs_old" }
 	attribute = { name = "bs_body_dwarf_1"					blend_shape = "male_legwear_KG_legwear_01_bs_dwarf" }
 	attribute = { name = "bs_body_no_left_leg"				blend_shape = "KGLeg_01_bs_no_leg" }
 
@@ -76,6 +76,18 @@ entity = {
 entity = {
 	name = "KGLeg_03_entity"
 	pdxmesh = "KGLeg_03_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "male_legwear_KG_legwear_01_bs_fat" }
+	attribute = { name = "bs_body_muscular_1"				blend_shape = "male_legwear_KG_legwear_01_bs_muscle" }
+    attribute = { name = "bs_body_old_1"					blend_shape = "male_legwear_KG_legwear_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"					blend_shape = "male_legwear_KG_legwear_01_bs_dwarf" }
+	attribute = { name = "bs_body_no_left_leg"				blend_shape = "KGLeg_01_bs_no_leg" }
+
+}
+
+entity = {
+	name = "KGLeg_Blackfyre_entity"
+	pdxmesh = "KGLeg_Blackfyre_mesh"
 	
 	attribute = { name = "bs_body_fat_1"					blend_shape = "male_legwear_KG_legwear_01_bs_fat" }
 	attribute = { name = "bs_body_muscular_1"				blend_shape = "male_legwear_KG_legwear_01_bs_muscle" }

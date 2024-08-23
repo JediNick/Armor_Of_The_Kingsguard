@@ -69,6 +69,20 @@ pdxmesh = {
 	}
 }
 
+pdxmesh = {
+	name = "KGHelmet_06_mesh"
+	file = "KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_blackfyre_diffuse.dds"
+		texture_normal = "KGHelmet01_black_normal.dds"
+		texture_specular = "KGHelmet01_black_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
 
 
 entity = {
@@ -90,6 +104,10 @@ entity = {
 entity = {
 	name = "KGHelmet_05_entity"
 	pdxmesh = "KGHelmet_05_mesh"
+}
+entity = {
+	name = "KGHelmet_06_entity"
+	pdxmesh = "KGHelmet_06_mesh"
 }
 
 

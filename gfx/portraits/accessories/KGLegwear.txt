@@ -15,3 +15,6 @@ male_legwear_KG_01 = {
 male_legwear_KG_03 = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = KGLeg_03_entity }
 }
+male_legwear_KG_Blackfyre = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = KGLeg_Blackfyre_entity }
+}

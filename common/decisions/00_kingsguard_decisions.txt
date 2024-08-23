@@ -57,6 +57,13 @@
 			}
 			icon = "gfx/interface/icons/traits/kingsguard_trait_05.dds"
 		}
+		item = {
+			value = blackfyre_choice
+			localization  = {
+				desc = replace_armor_blackfyre_desc
+			}
+			icon = "gfx/interface/icons/traits/kingsguard_trait_06.dds"
+		}
 	}
 	
 	ai_will_do = {
@@ -104,6 +111,15 @@
 					set_variable = {
 						name = kingsguard_choice
 						value = 4
+					}
+				}
+			}
+			else_if = {
+				limit = { scope:blackfyre_choice = yes }
+				primary_title = {
+					set_variable = {
+						name = kingsguard_choice
+						value = 5
 					}
 				}
 			}
