@@ -1,5 +1,7 @@
 ﻿replace_kingsguard_armor_decision = {
-	picture = "gfx/interface/illustrations/decisions/decision_smith.dds"
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_smith.dds"
+	}
 
 	desc = replace_armor_desc
 	selection_tooltip = replace_armor_tooltip
