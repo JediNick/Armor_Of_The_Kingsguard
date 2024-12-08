@@ -12,7 +12,7 @@ entity = {
 	game_data = {
 		portrait_entity_user_data = {
 			portrait_accessory = {
-				pattern_mask = "gfx/models/portraits/attachments/male_cloaks/secular/ep1/adventurer_01/male_cloaks_secular_ep1_adventurer_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
+				pattern_mask = "gfx/models/portraits/m_cloaks/ep1/adventurer_01/m_cloaks_secular_ep1_adventurer_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
 				variation = "kingsguard_cloak_02"	#A "variation" object in gfx/portraits/accessory_variations/
 			}
 		}
@@ -33,7 +33,7 @@ entity = {
 	game_data = {
 		portrait_entity_user_data = {
 			portrait_accessory = {
-				pattern_mask = "gfx/models/portraits/attachments/male_cloaks/secular/ep1/adventurer_01/male_cloaks_secular_ep1_adventurer_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
+				pattern_mask = "gfx/models/portraits/m_cloaks/ep1/adventurer_01/m_cloaks_secular_ep1_adventurer_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
 				variation = "kingsguard_cloak_03"	#A "variation" object in gfx/portraits/accessory_variations/
 			}
 		}
