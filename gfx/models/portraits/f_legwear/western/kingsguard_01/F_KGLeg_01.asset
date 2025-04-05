@@ -1,0 +1,111 @@
+pdxmesh = {
+	name = "F_KGLeg_01_mesh"
+	file = "F_KGLeg_01.mesh"
+
+    blend_shape = { id = "F_KGLeg_01_bs_no_leg"		type = "F_KGLeg_01_bs_no_left_leg.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_old"		type = "F_KGLeg_01_bs_old.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_pregnant"		type = "F_KGLeg_01_bs_pregnant.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_muscular"		type = "F_KGLeg_01_bs_muscular.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_gaunt"		type = "F_KGLeg_01_bs_gaunt.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_fat"		type = "F_KGLeg_01_bs_fat.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_dwarf"		type = "F_KGLeg_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGLegs_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "F_KGLeg_Blackfyre_mesh"
+	file = "F_KGLeg_01.mesh"
+
+    blend_shape = { id = "F_KGLeg_01_bs_no_leg"		type = "F_KGLeg_01_bs_no_left_leg.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_old"		type = "F_KGLeg_01_bs_old.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_pregnant"		type = "F_KGLeg_01_bs_pregnant.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_muscular"		type = "F_KGLeg_01_bs_muscular.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_gaunt"		type = "F_KGLeg_01_bs_gaunt.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_fat"		type = "F_KGLeg_01_bs_fat.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_dwarf"		type = "F_KGLeg_01_bs_dwarf.mesh" }
+	
+	meshsettings = {
+		name = "KGLegs_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_blackfyre_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "F_KGLeg_03_mesh"
+	file = "F_KGLeg_01.mesh"
+
+    blend_shape = { id = "F_KGLeg_01_bs_no_leg"		type = "F_KGLeg_01_bs_no_left_leg.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_old"		type = "F_KGLeg_01_bs_old.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_pregnant"		type = "F_KGLeg_01_bs_pregnant.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_muscular"		type = "F_KGLeg_01_bs_muscular.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_gaunt"		type = "F_KGLeg_01_bs_gaunt.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_fat"		type = "F_KGLeg_01_bs_fat.mesh" }
+    blend_shape = { id = "F_KGLeg_01_bs_dwarf"		type = "F_KGLeg_01_bs_dwarf.mesh" }
+	
+	meshsettings = {
+		name = "KGLegs_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_white_diffuse.dds"
+		texture_normal = "KGClothing_white_normal.dds"
+		texture_specular = "KGClothing_white_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+	
+entity = {
+	name = "F_KGLeg_01_entity"
+	pdxmesh = "F_KGLeg_01_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KGLeg_01_bs_fat" }
+	attribute = { name = "bs_body_muscular_1"				blend_shape = "F_KGLeg_01_bs_muscular" }
+    attribute = { name = "bs_body_old_1"					blend_shape = "F_KGLeg_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"					blend_shape = "F_KGLeg_01_bs_dwarf" }
+	attribute = { name = "bs_body_gaunt_1"					blend_shape = "F_KGLeg_01_bs_gaunt" }
+	attribute = { name = "bs_body_pregnant_1"				blend_shape = "F_KGLeg_01_bs_pregnant" }
+	attribute = { name = "bs_body_no_left_leg"				blend_shape = "F_KGLeg_01_bs_no_leg" }
+
+}
+
+entity = {
+	name = "F_KGLeg_03_entity"
+	pdxmesh = "F_KGLeg_03_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KGLeg_01_bs_fat" }
+	attribute = { name = "bs_body_muscular_1"				blend_shape = "F_KGLeg_01_bs_muscular" }
+    attribute = { name = "bs_body_old_1"					blend_shape = "F_KGLeg_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"					blend_shape = "F_KGLeg_01_bs_dwarf" }
+	attribute = { name = "bs_body_gaunt_1"					blend_shape = "F_KGLeg_01_bs_gaunt" }
+	attribute = { name = "bs_body_pregnant_1"				blend_shape = "F_KGLeg_01_bs_pregnant" }
+	attribute = { name = "bs_body_no_left_leg"				blend_shape = "F_KGLeg_01_bs_no_leg" }
+
+}
+
+entity = {
+	name = "F_KGLeg_Blackfyre_entity"
+	pdxmesh = "F_KGLeg_Blackfyre_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KGLeg_01_bs_fat" }
+	attribute = { name = "bs_body_muscular_1"				blend_shape = "F_KGLeg_01_bs_muscular" }
+    attribute = { name = "bs_body_old_1"					blend_shape = "F_KGLeg_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"					blend_shape = "F_KGLeg_01_bs_dwarf" }
+	attribute = { name = "bs_body_gaunt_1"					blend_shape = "F_KGLeg_01_bs_gaunt" }
+	attribute = { name = "bs_body_pregnant_1"				blend_shape = "F_KGLeg_01_bs_pregnant" }
+	attribute = { name = "bs_body_no_left_leg"				blend_shape = "F_KGLeg_01_bs_no_leg" }
+
+}

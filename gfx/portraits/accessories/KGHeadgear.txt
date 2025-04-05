@@ -8,26 +8,52 @@
 ## Western ##
 
 male_headgear_secular_western_KG_helmet_01 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_01_entity	 }		
 }
 male_headgear_secular_western_KG_helmet_02 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_02_entity	 }		
 }
 male_headgear_secular_western_KG_helmet_03 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_03_entity	 }		
 }
 male_headgear_secular_western_KG_helmet_04 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_04_entity	 }		
 }
 male_headgear_secular_western_KG_helmet_05 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_05_entity	 }		
 }
 male_headgear_secular_western_KG_helmet_06 = {
-	set_tags = "no_hair"
+	set_tags = "no_hair,helmet,snug_headgear"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = KGHelmet_06_entity	 }		
+}
+
+
+female_headgear_secular_western_KG_helmet_01 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_01_entity	 }		
+}
+female_headgear_secular_western_KG_helmet_02 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_02_entity	 }		
+}
+female_headgear_secular_western_KG_helmet_03 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_03_entity	 }		
+}
+female_headgear_secular_western_KG_helmet_04 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_04_entity	 }		
+}
+female_headgear_secular_western_KG_helmet_05 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_05_entity	 }		
+}
+female_headgear_secular_western_KG_helmet_06 = {
+	set_tags = "no_hair,helmet,snug_headgear"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = F_KGHelmet_06_entity	 }		
 }

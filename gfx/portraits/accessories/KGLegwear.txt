@@ -18,3 +18,17 @@ male_legwear_KG_03 = {
 male_legwear_KG_Blackfyre = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = KGLeg_Blackfyre_entity }
 }
+
+
+
+female_legwear_KG_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = F_KGLeg_01_entity }
+}
+
+
+female_legwear_KG_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = F_KGLeg_03_entity }
+}
+female_legwear_KG_Blackfyre = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = F_KGLeg_Blackfyre_entity }
+}

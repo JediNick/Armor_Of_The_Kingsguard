@@ -1,0 +1,698 @@
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_01_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_diffuse.dds"
+		texture_normal = "KGArmor_normal.dds"
+		texture_specular = "KGArmor_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_01_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_targ_diffuse.dds"
+		texture_normal = "KGArmor_targ_normal.dds"
+		texture_specular = "KGArmor_targ_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_02_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_bronze_diffuse.dds"
+		texture_normal = "KGArmor_bronze_normal.dds"
+		texture_specular = "KGArmor_bronze_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_tan_diffuse.dds"
+		texture_normal = "KGClothing_tan_normal.dds"
+		texture_specular = "KGClothing_tan_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_02_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_bronzetarg_diffuse.dds"
+		texture_normal = "KGArmor_bronzetarg_normal.dds"
+		texture_specular = "KGArmor_bronzetarg_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_tan_diffuse.dds"
+		texture_normal = "KGClothing_tan_normal.dds"
+		texture_specular = "KGClothing_tan_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_03_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_black_diffuse.dds"
+		texture_normal = "KGArmor_black_normal.dds"
+		texture_specular = "KGArmor_black_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_03_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_black_targ_diffuse.dds"
+		texture_normal = "KGArmor_black_targ_normal.dds"
+		texture_specular = "KGArmor_black_targ_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_04_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_gold_diffuse.dds"
+		texture_normal = "KGArmor_gold_normal.dds"
+		texture_specular = "KGArmor_gold_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_tan_diffuse.dds"
+		texture_normal = "KGClothing_tan_normal.dds"
+		texture_specular = "KGClothing_tan_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_04_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_gold_targ_diffuse.dds"
+		texture_normal = "KGArmor_gold_targ_normal.dds"
+		texture_specular = "KGArmor_gold_targ_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_tan_diffuse.dds"
+		texture_normal = "KGClothing_tan_normal.dds"
+		texture_specular = "KGClothing_tan_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_05_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_white_diffuse.dds"
+		texture_normal = "KGArmor_white_normal.dds"
+		texture_specular = "KGArmor_white_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_white_diffuse.dds"
+		texture_normal = "KGClothing_white_normal.dds"
+		texture_specular = "KGClothing_white_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_05_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_white_targ_diffuse.dds"
+		texture_normal = "KGArmor_white_targ_normal.dds"
+		texture_specular = "KGArmor_white_targ_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_white_diffuse.dds"
+		texture_normal = "KGClothing_white_normal.dds"
+		texture_specular = "KGClothing_white_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armor_06_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_blackfyre_diffuse.dds"
+		texture_normal = "KGArmor_black_normal.dds"
+		texture_specular = "KGArmor_black_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_blackfyre_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "female_clothes_secular_western_KG_armorTarg_06_mesh"
+	file = "F_KGArmor_01.mesh"
+	
+	blend_shape = { id = "F_KG_armor_01_bs_fat"		type = "F_KGArmor_01_bs_fat.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_muscular"		type = "F_KGArmor_01_bs_muscular.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_old"		type = "F_KGArmor_01_bs_old.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_pregnant"		type = "F_KGArmor_01_bs_pregnant.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_max"		type = "F_KGArmor_01_bs_breast_max.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_breast_min"		type = "F_KGArmor_01_bs_breast_min.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_gaunt"		type = "F_KGArmor_01_bs_gaunt.mesh" }
+	blend_shape = { id = "F_KG_armor_01_bs_dwarf"		type = "F_KGArmor_01_bs_dwarf.mesh" }
+
+	meshsettings = {
+		name = "KGArmor_Shape"
+		index = 0
+		texture_diffuse = "KGArmor_blackfyre_targ_diffuse.dds"
+		texture_normal = "KGArmor_black_targ_normal.dds"
+		texture_specular = "KGArmor_black_targ_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGClothing_Shape"
+		index = 0
+		texture_diffuse = "KGClothing_blackfyre_diffuse.dds"
+		texture_normal = "KGClothing_normal.dds"
+		texture_specular = "KGClothing_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+	meshsettings = {
+		name = "KGSword_Shape"
+		index = 0
+		texture_diffuse = "KGSword_diffuse.dds"
+		texture_normal = "KGSword_normal.dds"
+		texture_specular = "KGSword_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armor_01_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_01_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_01_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_01_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+entity = {
+	name = "female_clothes_secular_western_KG_armor_02_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_02_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_02_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_02_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armor_03_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_03_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_03_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_03_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+entity = {
+	name = "female_clothes_secular_western_KG_armor_04_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_04_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_04_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_04_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+entity = {
+	name = "female_clothes_secular_western_KG_armor_05_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_05_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_05_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_05_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armor_06_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armor_06_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+
+}
+
+entity = {
+	name = "female_clothes_secular_western_KG_armorTarg_06_entity"
+	pdxmesh = "female_clothes_secular_western_KG_armorTarg_06_mesh"
+	
+	attribute = { name = "bs_body_fat_1"					blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_breast_size_max"							blend_shape = "F_KG_armor_01_bs_breast_max" }
+	attribute = { name = "bs_body_breast_size_min"							blend_shape = "F_KG_armor_01_bs_breast_min" }
+	attribute = { name = "bs_body_pregnant_1"								blend_shape = "F_KG_armor_01_bs_pregnant" }
+	attribute = { name = "bs_body_fat_1"									blend_shape = "F_KG_armor_01_bs_fat" }
+	attribute = { name = "bs_body_gaunt_1"									blend_shape = "F_KG_armor_01_bs_gaunt" }
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "F_KG_armor_01_bs_muscular" }
+	attribute = { name = "bs_body_old_1"									blend_shape = "F_KG_armor_01_bs_old" }
+	attribute = { name = "bs_body_dwarf_1"									blend_shape = "F_KG_armor_01_bs_dwarf" }
+	attribute = { name = "bs_body_muscular_1"					blend_shape = "F_KG_armor_01_bs_muscular" }
+}
+

@@ -8,38 +8,100 @@
 ## Western ##
 
 male_clothes_secular_western_KG_armor_01 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_01_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_01 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_01_entity}	
 }
 male_clothes_secular_western_KG_armor_02 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_02_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_02 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_02_entity}		
 }
 male_clothes_secular_western_KG_armor_03 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_03_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_03 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_03_entity}	
 }
 male_clothes_secular_western_KG_armor_04 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_04_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_04 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_04_entity}	
 }
 male_clothes_secular_western_KG_armor_05 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_05_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_05 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_05_entity}	
 }
 male_clothes_secular_western_KG_armor_06 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armor_06_entity}		
 }
 male_clothes_secular_western_KG_armorTarg_06 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
 	entity = { required_tags = ""			shared_pose_entity = torso		entity = male_clothes_secular_western_KG_armorTarg_06_entity}	
+}
+
+
+female_clothes_secular_western_KG_armor_01 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_01_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_01 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_01_entity}	
+}
+female_clothes_secular_western_KG_armor_02 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_02_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_02 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_02_entity}		
+}
+female_clothes_secular_western_KG_armor_03 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_03_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_03 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_03_entity}	
+}
+female_clothes_secular_western_KG_armor_04 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_04_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_04 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_04_entity}	
+}
+female_clothes_secular_western_KG_armor_05 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_05_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_05 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_05_entity}	
+}
+female_clothes_secular_western_KG_armor_06 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armor_06_entity}		
+}
+female_clothes_secular_western_KG_armorTarg_06 = {
+	set_tags = "shrink_arms,shrink_chest,shrink_belly,shrink_hands"
+	entity = { required_tags = ""			shared_pose_entity = torso		entity = female_clothes_secular_western_KG_armorTarg_06_entity}	
 }

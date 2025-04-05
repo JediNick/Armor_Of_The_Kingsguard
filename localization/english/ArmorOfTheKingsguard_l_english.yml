@@ -28,6 +28,37 @@ PORTRAIT_MODIFIER_custom_legwear_male_legwear_KG_01:1 "@aotk_icon! Kingsguard Le
 PORTRAIT_MODIFIER_custom_legwear_male_legwear_KG_03:1 "@aotk_icon! Kingsguard Legwear (White)"
 PORTRAIT_MODIFIER_custom_legwear_male_legwear_KG_Blackfyre:1 "@aotk_icon! Kingsguard Legwear (Red)"
 
+
+
+
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_01:1 "@aotk_icon! Kingsguard Helmet (Steel)"
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_02:1 "@aotk_icon! Kingsguard Helmet (Bronze)"
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_03:1 "@aotk_icon! Kingsguard Helmet (Black Steel)"
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_04:1 "@aotk_icon! Kingsguard Helmet (Gold)"
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_05:1 "@aotk_icon! Kingsguard Helmet (White Enamel)"
+PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_western_KG_helmet_06:1 "@aotk_icon! Kingsguard Helmet (Black & Red Steel)"
+
+
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_01:1 "@aotk_icon! Kingsguard Armor (Steel)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_02:1 "@aotk_icon! Kingsguard Armor (Bronze)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_03:1 "@aotk_icon! Kingsguard Armor (Black Steel)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_04:1 "@aotk_icon! Kingsguard Armor (Gold)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_05:1 "@aotk_icon! Kingsguard Armor (White Enamel)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armor_06:1 "@aotk_icon! Kingsguard Armor (Black & Red Steel)"
+
+
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_01:1 "@aotk_icon! Kingsguard Armor (Steel/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_02:1 "@aotk_icon! Kingsguard Armor (Bronze/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_03:1 "@aotk_icon! Kingsguard Armor (Black Steel/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_04:1 "@aotk_icon! Kingsguard Armor (Gold/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_05:1 "@aotk_icon! Kingsguard Armor (White Enamel/Targaryen)"
+PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_KG_armorTarg_06:1 "@aotk_icon! Kingsguard Armor (Black & Red Steel/BlackFyre)"
+
+
+PORTRAIT_MODIFIER_custom_legwear_female_legwear_KG_01:1 "@aotk_icon! Kingsguard Legwear"
+PORTRAIT_MODIFIER_custom_legwear_female_legwear_KG_03:1 "@aotk_icon! Kingsguard Legwear (White)"
+PORTRAIT_MODIFIER_custom_legwear_female_legwear_KG_Blackfyre:1 "@aotk_icon! Kingsguard Legwear (Red)"
+
 PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_01:0 "@aotk_icon! Kingsguard Cloak (White)"
 PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_02:0 "@aotk_icon! Kingsguard Cloak (Black)"
 PORTRAIT_MODIFIER_custom_cloaks_kingsguard_cloak_03:0 "@aotk_icon! Kingsguard Cloak (Tan)"

@@ -1,0 +1,113 @@
+pdxmesh = {
+	name = "F_KGHelmet_01_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_diffuse.dds"
+		texture_normal = "KGHelmet01_normal.dds"
+		texture_specular = "KGHelmet01_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+pdxmesh = {
+	name = "F_KGHelmet_02_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_bronze_diffuse.dds"
+		texture_normal = "KGHelmet01_bronze_normal.dds"
+		texture_specular = "KGHelmet01_bronze_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+pdxmesh = {
+	name = "F_KGHelmet_03_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_black_diffuse.dds"
+		texture_normal = "KGHelmet01_black_normal.dds"
+		texture_specular = "KGHelmet01_black_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+pdxmesh = {
+	name = "F_KGHelmet_04_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_gold_diffuse.dds"
+		texture_normal = "KGHelmet01_gold_normal.dds"
+		texture_specular = "KGHelmet01_gold_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+pdxmesh = {
+	name = "F_KGHelmet_05_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_white_diffuse.dds"
+		texture_normal = "KGHelmet01_white_normal.dds"
+		texture_specular = "KGHelmet01_white_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+pdxmesh = {
+	name = "F_KGHelmet_06_mesh"
+	file = "F_KGHelmet_01.mesh"
+
+	meshsettings = {
+		name = "KGHelmet_01Shape"
+		index = 0
+		texture_diffuse = "KGHelmet01_blackfyre_diffuse.dds"
+		texture_normal = "KGHelmet01_black_normal.dds"
+		texture_specular = "KGHelmet01_black_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+
+entity = {
+	name = "F_KGHelmet_01_entity"
+	pdxmesh = "F_KGHelmet_01_mesh"
+}
+entity = {
+	name = "F_KGHelmet_02_entity"
+	pdxmesh = "F_KGHelmet_02_mesh"
+}
+entity = {
+	name = "F_KGHelmet_03_entity"
+	pdxmesh = "F_KGHelmet_03_mesh"
+}
+entity = {
+	name = "F_KGHelmet_04_entity"
+	pdxmesh = "F_KGHelmet_04_mesh"
+}
+entity = {
+	name = "F_KGHelmet_05_entity"
+	pdxmesh = "F_KGHelmet_05_mesh"
+}
+entity = {
+	name = "F_KGHelmet_06_entity"
+	pdxmesh = "F_KGHelmet_06_mesh"
+}
+
+
